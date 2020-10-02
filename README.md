@@ -3,8 +3,8 @@ Great for LAN-Parties. Just write your launcher config once and the players just
 push a button to launch the game and can launch mods with the push of a button by selecting
 them from a list.
 ## Download
-Download the launcher from https://github.com/hhirsch/launcher/releases
-no need to unzip because python can run zip files directly.
+Download the launcher from here: https://github.com/hhirsch/launcher/releases
+no need to unzip files because python can run zip files directly.
 ## Config Files
 ### Configuring launcher
 The minimum config you need is a launcher.json in the root directory of the launcher.
